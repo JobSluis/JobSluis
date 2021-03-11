@@ -1,1 +1,1 @@
-<img align="left" alt="Profile Banner" src="https://imgur.com/a/e3KXUiS">
+<img align="left" alt="Profile Banner" src="./Images/github_banner.jpg">
