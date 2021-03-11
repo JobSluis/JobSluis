@@ -1,1 +1,1 @@
-![Profile Banner](https://imgur.com/Jw6jOzu)
+<img align="left" alt="Profile Banner" src="https://imgur.com/a/e3KXUiS">
